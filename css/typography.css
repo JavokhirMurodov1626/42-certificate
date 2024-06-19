@@ -1,0 +1,49 @@
+@font-face {
+  font-family: "WorkSans-Regular";
+  src: local("WorkSans-Regular"),
+    url("../assets/fonts/WorkSans-Regular.woff") format("woff"),
+    local("WorkSans-Regular"),
+    url("../assets/fonts/WorkSans-Regular.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "WorkSans-Bold";
+  src: local("WorkSans-Bold"),
+    url("../assets/fonts/WorkSans-Bold.woff") format("woff"),
+    local("WorkSans-Bold"),
+    url("../assets/fonts/WorkSans-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "WorkSans-SemiBold";
+  src: local("WorkSans-SemiBold"),
+    url("../assets/fonts/WorkSans-SemiBold.woff") format("woff"),
+    local("WorkSans-SemiBold"),
+    url("../assets/fonts/WorkSans-SemiBold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "WorkSans-Medium";
+  src: local("WorkSans-Medium"),
+    url("../assets/fonts/WorkSans-Medium.woff") format("woff"),
+    local("WorkSans-Medium"),
+    url("../assets/fonts/WorkSans-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "WorkSans-ExtraBold";
+  src: local("WorkSans-ExtraBold"),
+    url("../assets/fonts/WorkSans-ExtraBold.woff") format("woff"),
+    local("WorkSans-ExtraBold"),
+    url("../assets/fonts/WorkSans-ExtraBold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}

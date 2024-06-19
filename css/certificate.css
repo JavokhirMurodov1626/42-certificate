@@ -1,7 +1,7 @@
 /* main-content styles */
 
 .main-content {
-  background-image: url("../assets//images/bg-pattern.png");
+  background-image: url("../assets//images/bg-pattern.webp");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -63,7 +63,7 @@
   justify-content: space-between;
   position: relative;
   padding: 20rem 11.5rem 8.5rem 11.5rem;
-  background-image: url("../assets//images/footer_bg_pattern.png");
+  background-image: url("../assets//images/footer_bg_pattern.webp");
 }
 
 .qr-code {
